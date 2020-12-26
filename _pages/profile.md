@@ -3,6 +3,7 @@ title: "Profile"
 layout: single
 author_profile: true
 permalink: /profile/
+comments: true
 ---
 
 &nbsp;I'm currently the information security researcher of [Programming System Laboratory @ KAIST](https://prosys.kaist.ac.kr/) advised by [Kihong Heo](https://kihongheo.kaist.ac.kr/).
