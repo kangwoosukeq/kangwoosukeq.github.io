@@ -14,4 +14,4 @@ permalink: /profile/
 
 * Research Interest
 
-&nbsp;Cyber Security, Program Analysis, Formal Verification
+*&nbsp;Cyber Security, Program Analysis, Formal Verification*
