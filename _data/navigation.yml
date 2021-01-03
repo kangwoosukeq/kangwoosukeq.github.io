@@ -11,4 +11,4 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Profile"
-    url: https://kangwoosukeq.github.io/profile
+    url: "/profile"
