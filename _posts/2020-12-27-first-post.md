@@ -1,8 +1,8 @@
 ---
 title: "Hello World!"
 layout: single
-author_profile: true
-comments: true
+categories:
+  - Blog
 ---
 
 ![starship](/images/starship.jpg)

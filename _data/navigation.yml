@@ -12,3 +12,5 @@ main:
   #   url: /sitemap/
   - title: "Profile"
     url: "/profile"
+  - title: "Category"
+    url: "/categories"
