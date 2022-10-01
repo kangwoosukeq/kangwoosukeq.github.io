@@ -25,7 +25,7 @@ since = 2022
 # enableTwemoji = true
 
 # colorScheme = "auto"
-# hidecolorschemetoggle = false
+hidecolorschemetoggle = true
 
 # customCSS = ["css/custom.css"]
 # customSCSS = ["scss/custom.scss"]
@@ -58,4 +58,4 @@ url = "mailto:kangwoosuk1@gmail.com"
 [[menu.main]]
 name = "About"
 weight = 2
-url = "about/"
+url = "about"
