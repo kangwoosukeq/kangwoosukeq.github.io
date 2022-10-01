@@ -1,0 +1,61 @@
+baseurl = "https://kangwoosukeq.github.io"
+title = "BLOG"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+# pygmentsstyle = "bw"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+author = "Wooseok Kang"
+info = "Security Researcher"
+avatarurl = "https://www.smashbros.com/images/og/kirby.jpg"
+
+# favicon_32 = "/img/favicon-32x32.png"
+# favicon_16 = "/img/favicon-16x16.png"
+
+since = 2022
+
+# enableTwemoji = true
+
+# colorScheme = "auto"
+# hidecolorschemetoggle = false
+
+# customCSS = ["css/custom.css"]
+# customSCSS = ["scss/custom.scss"]
+# customJS = ["js/custom.js"]
+
+# [taxonomies]
+# category = "categories"
+# series = "series"
+# tag = "tags"
+# author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/kangwoosukeq"
+[[params.social]]
+name = "Mail"
+icon = "fa fa-envelope fa-2x"
+weight = 1
+url = "mailto:kangwoosuk1@gmail.com"
+
+
+# Menu links
+[[menu.main]]
+# name = "Posts"
+# weight = 1
+# url = "posts/"
+[[menu.main]]
+name = "About"
+weight = 2
+url = "about/"
